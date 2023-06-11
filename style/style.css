@@ -1,0 +1,53 @@
+.fade-text{
+  font-size: 20px;
+  font-family: bold;
+  background-color: yellow;
+  margin-top: 10px;
+}
+.ques{
+  padding: 20px 25px;
+  font-size: 25px;
+  font-weight: 700;
+  background-color: bisque;
+  color: black;
+  cursor: pointer;
+}
+
+.ans{
+  padding: 20px 25px;
+  font-size: 20px;
+  font-weight: 300;
+  background-color: rosybrown;
+  color: black;
+}
+.animation{
+position: relative;
+width: 120px;
+height: 80px;
+background-color: blueviolet;
+margin-top: 20px;
+border-radius: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+color: aliceblue;
+font-size: 20px;
+
+}
+
+.img{
+  margin-right: 30px;
+}
+.red{
+  color: red;
+  background-color: black;
+}
+.font_size{
+font-size: 50px;
+}
+.bg_color{
+  background-color: antiquewhite;
+  font-size: 30px;
+  font-weight: 700;
+  padding: 20px 30px;
+}
