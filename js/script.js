@@ -51,12 +51,12 @@ $(document).ready(function () {
       $("#before_text").on("click",function(){
         // $("img").before("<i>After</i>");
 
-        $(".img").before("<img src='../images/javascript-images-3.png'>");
+        $(".img").before("<img src='./images/javascript-images-3.png'>");
       });
     
       $("#after_text").on("click",function(){
         // $("img").after("<i>After</i>");
-        $(".img").after("<img src='../images/PHP-logo.png'>");
+        $(".img").after("<img src='./images/PHP-logo.png'>");
 
       });
       $(".color_btn").on("click",function(){
